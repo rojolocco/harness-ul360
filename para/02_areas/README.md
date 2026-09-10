@@ -1,3 +1,3 @@
 # Otro test
 
-tst_2
+test_2
